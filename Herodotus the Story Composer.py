@@ -97,6 +97,6 @@ def compose_story():
     second_para()
     third_para()
     print" "
-    print "That is it for now... but maybe an ending can be begin anew."
+    print "That is it for now... but maybe an ending can be begin anew chapter."
 
 compose_story()
