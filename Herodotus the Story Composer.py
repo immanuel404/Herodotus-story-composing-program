@@ -90,13 +90,13 @@ def heading():
   
 def compose_story():
 #Collate and compose stories
-    print "Herodotus: A tale I have for you my friend, and I tell it as I so remember it"
+    print "Herodotus: A tale I have for you, and I tell it as I so remember it"
     print" "
     heading()
     first_para()
     second_para()
     third_para()
     print" "
-    print "That is it for now, my friend. But maybe an ending can be a new beginning"
+    print "That is it for now... but maybe an ending can be begin anew."
 
 compose_story()
